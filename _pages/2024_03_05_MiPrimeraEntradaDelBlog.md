@@ -1,4 +1,11 @@
-# Radio ausa stagna vultu in nunc loquentis
+---
+title: "Blog post test #1"
+date: YYYY-MM-DD
+---
+
+# Radio ausa
+
+ stagna vultu in nunc loquentis
 
 ## Pectus Ascaniumque scit
 
